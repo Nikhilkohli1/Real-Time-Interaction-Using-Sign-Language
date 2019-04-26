@@ -40,6 +40,9 @@ c)Activate a Google Asisstant.
 
 d)Now run the Video_Sign_Language_Prediction_Pipeline_Final.ipynb notebook 
 
+Trained Weights(Trained on GPU) can be found at this link - https://drive.google.com/open?id=1zfFFcZSgW4l0ZnQu8ng7Cz8Ju0mmrsWm
+
+
 
 **2. If you want to build our model and train it on LSA64 or any other dataset from scratch - **
 
