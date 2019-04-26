@@ -1,0 +1,6 @@
+data/train,Argentina,024_001_001,58
+data/train,Argentina,024_001_002,97
+data/train,Birthday,030_001_001,91
+data/train,Birthday,030_001_002,83
+data/test,Argentina,024_001_005,67
+data/test,Birthday,030_001_005,78

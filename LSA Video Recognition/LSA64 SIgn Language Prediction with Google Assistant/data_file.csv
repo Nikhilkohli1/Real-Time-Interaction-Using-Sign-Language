@@ -1,0 +1,1201 @@
+path,Class,VideoID,Frames
+LSA_64/train,Are you Hungry,033_001_001,75
+LSA_64/train,Are you Hungry,033_001_002,49
+LSA_64/train,Are you Hungry,033_001_003,66
+LSA_64/train,Are you Hungry,033_001_004,73
+LSA_64/train,Are you Hungry,033_002_001,96
+LSA_64/train,Are you Hungry,033_002_002,93
+LSA_64/train,Are you Hungry,033_002_003,94
+LSA_64/train,Are you Hungry,033_002_004,94
+LSA_64/train,Are you Hungry,033_003_001,59
+LSA_64/train,Are you Hungry,033_003_002,61
+LSA_64/train,Are you Hungry,033_003_003,74
+LSA_64/train,Are you Hungry,033_003_004,89
+LSA_64/train,Are you Hungry,033_004_001,64
+LSA_64/train,Are you Hungry,033_004_002,64
+LSA_64/train,Are you Hungry,033_004_003,68
+LSA_64/train,Are you Hungry,033_004_004,51
+LSA_64/train,Are you Hungry,033_005_001,54
+LSA_64/train,Are you Hungry,033_005_002,75
+LSA_64/train,Are you Hungry,033_005_003,74
+LSA_64/train,Are you Hungry,033_005_004,57
+LSA_64/train,Are you Hungry,033_006_001,114
+LSA_64/train,Are you Hungry,033_006_002,141
+LSA_64/train,Are you Hungry,033_006_003,98
+LSA_64/train,Are you Hungry,033_006_004,109
+LSA_64/train,Are you Hungry,033_007_001,78
+LSA_64/train,Are you Hungry,033_007_002,85
+LSA_64/train,Are you Hungry,033_007_003,115
+LSA_64/train,Are you Hungry,033_007_004,119
+LSA_64/train,Are you Hungry,033_008_001,72
+LSA_64/train,Are you Hungry,033_008_002,70
+LSA_64/train,Are you Hungry,033_008_003,93
+LSA_64/train,Are you Hungry,033_008_004,92
+LSA_64/train,Are you Hungry,033_009_001,50
+LSA_64/train,Are you Hungry,033_009_002,67
+LSA_64/train,Are you Hungry,033_009_003,79
+LSA_64/train,Are you Hungry,033_009_004,60
+LSA_64/train,Are you Hungry,033_010_001,144
+LSA_64/train,Are you Hungry,033_010_002,114
+LSA_64/train,Are you Hungry,033_010_003,141
+LSA_64/train,Are you Hungry,033_010_004,143
+LSA_64/train,Argentina,024_001_001,58
+LSA_64/train,Argentina,024_001_002,97
+LSA_64/train,Argentina,024_001_003,64
+LSA_64/train,Argentina,024_001_004,71
+LSA_64/train,Argentina,024_002_001,105
+LSA_64/train,Argentina,024_002_002,55
+LSA_64/train,Argentina,024_002_003,55
+LSA_64/train,Argentina,024_002_004,79
+LSA_64/train,Argentina,024_003_001,55
+LSA_64/train,Argentina,024_003_002,63
+LSA_64/train,Argentina,024_003_003,65
+LSA_64/train,Argentina,024_003_004,61
+LSA_64/train,Argentina,024_004_001,60
+LSA_64/train,Argentina,024_004_002,45
+LSA_64/train,Argentina,024_004_003,69
+LSA_64/train,Argentina,024_004_004,72
+LSA_64/train,Argentina,024_005_001,77
+LSA_64/train,Argentina,024_005_002,42
+LSA_64/train,Argentina,024_005_003,61
+LSA_64/train,Argentina,024_005_004,42
+LSA_64/train,Argentina,024_006_001,63
+LSA_64/train,Argentina,024_006_002,73
+LSA_64/train,Argentina,024_006_003,64
+LSA_64/train,Argentina,024_006_004,70
+LSA_64/train,Argentina,024_007_001,57
+LSA_64/train,Argentina,024_007_002,64
+LSA_64/train,Argentina,024_007_003,67
+LSA_64/train,Argentina,024_007_004,48
+LSA_64/train,Argentina,024_008_001,41
+LSA_64/train,Argentina,024_008_002,39
+LSA_64/train,Argentina,024_008_003,62
+LSA_64/train,Argentina,024_008_004,40
+LSA_64/train,Argentina,024_009_001,79
+LSA_64/train,Argentina,024_009_002,41
+LSA_64/train,Argentina,024_009_003,67
+LSA_64/train,Argentina,024_009_004,73
+LSA_64/train,Argentina,024_010_001,59
+LSA_64/train,Argentina,024_010_002,60
+LSA_64/train,Argentina,024_010_003,62
+LSA_64/train,Argentina,024_010_004,80
+LSA_64/train,Birthday,030_001_001,91
+LSA_64/train,Birthday,030_001_002,83
+LSA_64/train,Birthday,030_001_003,91
+LSA_64/train,Birthday,030_001_004,83
+LSA_64/train,Birthday,030_002_001,142
+LSA_64/train,Birthday,030_002_002,143
+LSA_64/train,Birthday,030_002_003,83
+LSA_64/train,Birthday,030_002_004,113
+LSA_64/train,Birthday,030_003_001,88
+LSA_64/train,Birthday,030_003_002,80
+LSA_64/train,Birthday,030_003_003,105
+LSA_64/train,Birthday,030_003_004,142
+LSA_64/train,Birthday,030_004_001,70
+LSA_64/train,Birthday,030_004_002,84
+LSA_64/train,Birthday,030_004_003,86
+LSA_64/train,Birthday,030_004_004,96
+LSA_64/train,Birthday,030_005_001,143
+LSA_64/train,Birthday,030_005_002,89
+LSA_64/train,Birthday,030_005_003,143
+LSA_64/train,Birthday,030_005_004,138
+LSA_64/train,Birthday,030_006_001,116
+LSA_64/train,Birthday,030_006_002,171
+LSA_64/train,Birthday,030_006_003,159
+LSA_64/train,Birthday,030_006_004,133
+LSA_64/train,Birthday,030_007_001,90
+LSA_64/train,Birthday,030_007_002,114
+LSA_64/train,Birthday,030_007_003,111
+LSA_64/train,Birthday,030_007_004,97
+LSA_64/train,Birthday,030_008_001,111
+LSA_64/train,Birthday,030_008_002,112
+LSA_64/train,Birthday,030_008_003,114
+LSA_64/train,Birthday,030_008_004,107
+LSA_64/train,Birthday,030_009_001,105
+LSA_64/train,Birthday,030_009_002,86
+LSA_64/train,Birthday,030_009_003,94
+LSA_64/train,Birthday,030_009_004,94
+LSA_64/train,Birthday,030_010_001,114
+LSA_64/train,Birthday,030_010_002,144
+LSA_64/train,Birthday,030_010_003,145
+LSA_64/train,Birthday,030_010_004,142
+LSA_64/train,Call me,017_001_001,54
+LSA_64/train,Call me,017_001_002,39
+LSA_64/train,Call me,017_001_003,69
+LSA_64/train,Call me,017_001_004,40
+LSA_64/train,Call me,017_002_001,68
+LSA_64/train,Call me,017_002_002,54
+LSA_64/train,Call me,017_002_003,52
+LSA_64/train,Call me,017_002_004,65
+LSA_64/train,Call me,017_003_001,69
+LSA_64/train,Call me,017_003_002,62
+LSA_64/train,Call me,017_003_003,72
+LSA_64/train,Call me,017_003_004,53
+LSA_64/train,Call me,017_004_001,70
+LSA_64/train,Call me,017_004_002,67
+LSA_64/train,Call me,017_004_003,48
+LSA_64/train,Call me,017_004_004,73
+LSA_64/train,Call me,017_005_001,47
+LSA_64/train,Call me,017_005_002,63
+LSA_64/train,Call me,017_005_003,57
+LSA_64/train,Call me,017_005_004,42
+LSA_64/train,Call me,017_006_001,75
+LSA_64/train,Call me,017_006_002,55
+LSA_64/train,Call me,017_006_003,34
+LSA_64/train,Call me,017_006_004,50
+LSA_64/train,Call me,017_007_001,58
+LSA_64/train,Call me,017_007_002,44
+LSA_64/train,Call me,017_007_003,33
+LSA_64/train,Call me,017_007_004,53
+LSA_64/train,Call me,017_008_001,69
+LSA_64/train,Call me,017_008_002,54
+LSA_64/train,Call me,017_008_003,56
+LSA_64/train,Call me,017_008_004,62
+LSA_64/train,Call me,017_009_001,50
+LSA_64/train,Call me,017_009_002,51
+LSA_64/train,Call me,017_009_003,63
+LSA_64/train,Call me,017_009_004,67
+LSA_64/train,Call me,017_010_001,50
+LSA_64/train,Call me,017_010_002,55
+LSA_64/train,Call me,017_010_003,46
+LSA_64/train,Call me,017_010_004,43
+LSA_64/train,Can you,064_001_001,64
+LSA_64/train,Can you,064_001_002,65
+LSA_64/train,Can you,064_001_003,74
+LSA_64/train,Can you,064_001_004,70
+LSA_64/train,Can you,064_002_001,70
+LSA_64/train,Can you,064_002_002,75
+LSA_64/train,Can you,064_002_003,49
+LSA_64/train,Can you,064_002_004,89
+LSA_64/train,Can you,064_003_001,124
+LSA_64/train,Can you,064_003_002,67
+LSA_64/train,Can you,064_003_003,64
+LSA_64/train,Can you,064_003_004,54
+LSA_64/train,Can you,064_004_001,39
+LSA_64/train,Can you,064_004_002,46
+LSA_64/train,Can you,064_004_003,70
+LSA_64/train,Can you,064_004_004,73
+LSA_64/train,Can you,064_005_001,99
+LSA_64/train,Can you,064_005_002,63
+LSA_64/train,Can you,064_005_003,98
+LSA_64/train,Can you,064_005_004,36
+LSA_64/train,Can you,064_006_001,75
+LSA_64/train,Can you,064_006_002,86
+LSA_64/train,Can you,064_006_003,82
+LSA_64/train,Can you,064_006_004,82
+LSA_64/train,Can you,064_007_001,55
+LSA_64/train,Can you,064_007_002,54
+LSA_64/train,Can you,064_007_003,57
+LSA_64/train,Can you,064_007_004,52
+LSA_64/train,Can you,064_008_001,72
+LSA_64/train,Can you,064_008_002,82
+LSA_64/train,Can you,064_008_003,67
+LSA_64/train,Can you,064_008_004,77
+LSA_64/train,Can you,064_009_001,89
+LSA_64/train,Can you,064_009_002,67
+LSA_64/train,Can you,064_009_003,45
+LSA_64/train,Can you,064_009_004,71
+LSA_64/train,Can you,064_010_001,112
+LSA_64/train,Can you,064_010_002,111
+LSA_64/train,Can you,064_010_003,113
+LSA_64/train,Can you,064_010_004,82
+LSA_64/train,Colors,007_001_001,56
+LSA_64/train,Colors,007_001_002,77
+LSA_64/train,Colors,007_001_003,62
+LSA_64/train,Colors,007_001_004,58
+LSA_64/train,Colors,007_002_001,61
+LSA_64/train,Colors,007_002_002,64
+LSA_64/train,Colors,007_002_003,57
+LSA_64/train,Colors,007_002_004,65
+LSA_64/train,Colors,007_003_001,80
+LSA_64/train,Colors,007_003_002,56
+LSA_64/train,Colors,007_003_003,72
+LSA_64/train,Colors,007_003_004,70
+LSA_64/train,Colors,007_004_001,62
+LSA_64/train,Colors,007_004_002,73
+LSA_64/train,Colors,007_004_003,46
+LSA_64/train,Colors,007_004_004,74
+LSA_64/train,Colors,007_005_001,73
+LSA_64/train,Colors,007_005_002,53
+LSA_64/train,Colors,007_005_003,58
+LSA_64/train,Colors,007_005_004,89
+LSA_64/train,Colors,007_006_001,77
+LSA_64/train,Colors,007_006_002,75
+LSA_64/train,Colors,007_006_003,66
+LSA_64/train,Colors,007_006_004,76
+LSA_64/train,Colors,007_007_001,48
+LSA_64/train,Colors,007_007_002,52
+LSA_64/train,Colors,007_007_003,44
+LSA_64/train,Colors,007_007_004,49
+LSA_64/train,Colors,007_008_001,66
+LSA_64/train,Colors,007_008_002,46
+LSA_64/train,Colors,007_008_003,76
+LSA_64/train,Colors,007_008_004,70
+LSA_64/train,Colors,007_009_001,36
+LSA_64/train,Colors,007_009_002,38
+LSA_64/train,Colors,007_009_003,38
+LSA_64/train,Colors,007_009_004,53
+LSA_64/train,Colors,007_010_001,54
+LSA_64/train,Colors,007_010_002,57
+LSA_64/train,Colors,007_010_003,75
+LSA_64/train,Colors,007_010_004,51
+LSA_64/train,Dance,057_001_001,66
+LSA_64/train,Dance,057_001_002,71
+LSA_64/train,Dance,057_001_003,67
+LSA_64/train,Dance,057_001_004,65
+LSA_64/train,Dance,057_002_001,142
+LSA_64/train,Dance,057_002_002,115
+LSA_64/train,Dance,057_002_003,113
+LSA_64/train,Dance,057_002_004,144
+LSA_64/train,Dance,057_003_001,62
+LSA_64/train,Dance,057_003_002,129
+LSA_64/train,Dance,057_003_003,128
+LSA_64/train,Dance,057_003_004,141
+LSA_64/train,Dance,057_004_001,81
+LSA_64/train,Dance,057_004_002,90
+LSA_64/train,Dance,057_004_003,104
+LSA_64/train,Dance,057_004_004,120
+LSA_64/train,Dance,057_005_001,85
+LSA_64/train,Dance,057_005_002,69
+LSA_64/train,Dance,057_005_003,93
+LSA_64/train,Dance,057_005_004,82
+LSA_64/train,Dance,057_006_001,103
+LSA_64/train,Dance,057_006_002,71
+LSA_64/train,Dance,057_006_003,70
+LSA_64/train,Dance,057_006_004,73
+LSA_64/train,Dance,057_007_001,95
+LSA_64/train,Dance,057_007_002,85
+LSA_64/train,Dance,057_007_003,107
+LSA_64/train,Dance,057_007_004,87
+LSA_64/train,Dance,057_008_001,84
+LSA_64/train,Dance,057_008_002,108
+LSA_64/train,Dance,057_008_003,71
+LSA_64/train,Dance,057_008_004,83
+LSA_64/train,Dance,057_009_001,68
+LSA_64/train,Dance,057_009_002,54
+LSA_64/train,Dance,057_009_003,69
+LSA_64/train,Dance,057_009_004,74
+LSA_64/train,Dance,057_010_001,100
+LSA_64/train,Dance,057_010_002,59
+LSA_64/train,Dance,057_010_003,57
+LSA_64/train,Dance,057_010_004,79
+LSA_64/train,Help,056_001_001,64
+LSA_64/train,Help,056_001_002,60
+LSA_64/train,Help,056_001_003,57
+LSA_64/train,Help,056_001_004,100
+LSA_64/train,Help,056_002_001,109
+LSA_64/train,Help,056_002_002,77
+LSA_64/train,Help,056_002_003,110
+LSA_64/train,Help,056_002_004,74
+LSA_64/train,Help,056_003_001,78
+LSA_64/train,Help,056_003_002,95
+LSA_64/train,Help,056_003_003,52
+LSA_64/train,Help,056_003_004,71
+LSA_64/train,Help,056_004_001,73
+LSA_64/train,Help,056_004_002,72
+LSA_64/train,Help,056_004_003,80
+LSA_64/train,Help,056_004_004,48
+LSA_64/train,Help,056_005_001,59
+LSA_64/train,Help,056_005_002,78
+LSA_64/train,Help,056_005_003,53
+LSA_64/train,Help,056_005_004,86
+LSA_64/train,Help,056_006_001,61
+LSA_64/train,Help,056_006_002,73
+LSA_64/train,Help,056_006_003,76
+LSA_64/train,Help,056_006_004,105
+LSA_64/train,Help,056_007_001,62
+LSA_64/train,Help,056_007_002,67
+LSA_64/train,Help,056_007_003,81
+LSA_64/train,Help,056_007_004,59
+LSA_64/train,Help,056_008_001,51
+LSA_64/train,Help,056_008_002,62
+LSA_64/train,Help,056_008_003,54
+LSA_64/train,Help,056_008_004,52
+LSA_64/train,Help,056_009_001,68
+LSA_64/train,Help,056_009_002,60
+LSA_64/train,Help,056_009_003,64
+LSA_64/train,Help,056_009_004,66
+LSA_64/train,Help,056_010_001,67
+LSA_64/train,Help,056_010_002,104
+LSA_64/train,Help,056_010_003,71
+LSA_64/train,Help,056_010_004,106
+LSA_64/train,Music,036_001_001,60
+LSA_64/train,Music,036_001_002,70
+LSA_64/train,Music,036_001_003,79
+LSA_64/train,Music,036_001_004,79
+LSA_64/train,Music,036_002_001,104
+LSA_64/train,Music,036_002_002,103
+LSA_64/train,Music,036_002_003,96
+LSA_64/train,Music,036_002_004,86
+LSA_64/train,Music,036_003_001,83
+LSA_64/train,Music,036_003_002,110
+LSA_64/train,Music,036_003_003,107
+LSA_64/train,Music,036_003_004,92
+LSA_64/train,Music,036_004_001,65
+LSA_64/train,Music,036_004_002,73
+LSA_64/train,Music,036_004_003,70
+LSA_64/train,Music,036_004_004,66
+LSA_64/train,Music,036_005_001,65
+LSA_64/train,Music,036_005_002,58
+LSA_64/train,Music,036_005_003,77
+LSA_64/train,Music,036_005_004,81
+LSA_64/train,Music,036_006_001,112
+LSA_64/train,Music,036_006_002,118
+LSA_64/train,Music,036_006_003,81
+LSA_64/train,Music,036_006_004,106
+LSA_64/train,Music,036_007_001,78
+LSA_64/train,Music,036_007_002,106
+LSA_64/train,Music,036_007_003,77
+LSA_64/train,Music,036_007_004,90
+LSA_64/train,Music,036_008_001,77
+LSA_64/train,Music,036_008_002,75
+LSA_64/train,Music,036_008_003,72
+LSA_64/train,Music,036_008_004,74
+LSA_64/train,Music,036_009_001,63
+LSA_64/train,Music,036_009_002,98
+LSA_64/train,Music,036_009_003,93
+LSA_64/train,Music,036_009_004,81
+LSA_64/train,Music,036_010_001,143
+LSA_64/train,Music,036_010_002,72
+LSA_64/train,Music,036_010_003,78
+LSA_64/train,Music,036_010_004,87
+LSA_64/train,Name,039_001_001,47
+LSA_64/train,Name,039_001_002,91
+LSA_64/train,Name,039_001_003,83
+LSA_64/train,Name,039_001_004,47
+LSA_64/train,Name,039_002_001,111
+LSA_64/train,Name,039_002_002,113
+LSA_64/train,Name,039_002_003,114
+LSA_64/train,Name,039_002_004,93
+LSA_64/train,Name,039_003_001,70
+LSA_64/train,Name,039_003_002,50
+LSA_64/train,Name,039_003_003,63
+LSA_64/train,Name,039_003_004,70
+LSA_64/train,Name,039_004_001,70
+LSA_64/train,Name,039_004_002,96
+LSA_64/train,Name,039_004_003,39
+LSA_64/train,Name,039_004_004,67
+LSA_64/train,Name,039_005_001,71
+LSA_64/train,Name,039_005_002,143
+LSA_64/train,Name,039_005_003,108
+LSA_64/train,Name,039_005_004,75
+LSA_64/train,Name,039_006_001,99
+LSA_64/train,Name,039_006_002,75
+LSA_64/train,Name,039_006_003,110
+LSA_64/train,Name,039_006_004,79
+LSA_64/train,Name,039_007_001,81
+LSA_64/train,Name,039_007_002,48
+LSA_64/train,Name,039_007_003,84
+LSA_64/train,Name,039_007_004,56
+LSA_64/train,Name,039_008_001,73
+LSA_64/train,Name,039_008_002,103
+LSA_64/train,Name,039_008_003,110
+LSA_64/train,Name,039_008_004,112
+LSA_64/train,Name,039_009_001,76
+LSA_64/train,Name,039_009_002,88
+LSA_64/train,Name,039_009_003,74
+LSA_64/train,Name,039_009_004,65
+LSA_64/train,Name,039_010_001,89
+LSA_64/train,Name,039_010_002,141
+LSA_64/train,Name,039_010_003,111
+LSA_64/train,Name,039_010_004,114
+LSA_64/train,Opaque,001_001_001,67
+LSA_64/train,Opaque,001_001_002,99
+LSA_64/train,Opaque,001_001_003,73
+LSA_64/train,Opaque,001_001_004,76
+LSA_64/train,Opaque,001_002_001,93
+LSA_64/train,Opaque,001_002_002,68
+LSA_64/train,Opaque,001_002_003,73
+LSA_64/train,Opaque,001_002_004,64
+LSA_64/train,Opaque,001_003_001,62
+LSA_64/train,Opaque,001_003_002,67
+LSA_64/train,Opaque,001_003_003,74
+LSA_64/train,Opaque,001_003_004,73
+LSA_64/train,Opaque,001_004_001,83
+LSA_64/train,Opaque,001_004_002,59
+LSA_64/train,Opaque,001_004_003,80
+LSA_64/train,Opaque,001_004_004,83
+LSA_64/train,Opaque,001_005_001,45
+LSA_64/train,Opaque,001_005_002,65
+LSA_64/train,Opaque,001_005_003,50
+LSA_64/train,Opaque,001_005_004,129
+LSA_64/train,Opaque,001_006_001,53
+LSA_64/train,Opaque,001_006_002,67
+LSA_64/train,Opaque,001_006_003,72
+LSA_64/train,Opaque,001_006_004,97
+LSA_64/train,Opaque,001_007_001,47
+LSA_64/train,Opaque,001_007_002,44
+LSA_64/train,Opaque,001_007_003,86
+LSA_64/train,Opaque,001_007_004,73
+LSA_64/train,Opaque,001_008_001,47
+LSA_64/train,Opaque,001_008_002,41
+LSA_64/train,Opaque,001_008_003,48
+LSA_64/train,Opaque,001_008_004,71
+LSA_64/train,Opaque,001_009_001,119
+LSA_64/train,Opaque,001_009_002,67
+LSA_64/train,Opaque,001_009_003,31
+LSA_64/train,Opaque,001_009_004,40
+LSA_64/train,Opaque,001_010_001,83
+LSA_64/train,Opaque,001_010_002,81
+LSA_64/train,Opaque,001_010_003,75
+LSA_64/train,Opaque,001_010_004,50
+LSA_64/train,Play Some,053_001_001,67
+LSA_64/train,Play Some,053_001_002,68
+LSA_64/train,Play Some,053_001_003,72
+LSA_64/train,Play Some,053_001_004,79
+LSA_64/train,Play Some,053_002_001,72
+LSA_64/train,Play Some,053_002_002,101
+LSA_64/train,Play Some,053_002_003,66
+LSA_64/train,Play Some,053_002_004,103
+LSA_64/train,Play Some,053_003_001,83
+LSA_64/train,Play Some,053_003_002,61
+LSA_64/train,Play Some,053_003_003,68
+LSA_64/train,Play Some,053_003_004,85
+LSA_64/train,Play Some,053_004_001,79
+LSA_64/train,Play Some,053_004_002,66
+LSA_64/train,Play Some,053_004_003,46
+LSA_64/train,Play Some,053_004_004,44
+LSA_64/train,Play Some,053_005_001,93
+LSA_64/train,Play Some,053_005_002,65
+LSA_64/train,Play Some,053_005_003,141
+LSA_64/train,Play Some,053_005_004,96
+LSA_64/train,Play Some,053_006_001,66
+LSA_64/train,Play Some,053_006_002,77
+LSA_64/train,Play Some,053_006_003,113
+LSA_64/train,Play Some,053_006_004,77
+LSA_64/train,Play Some,053_007_001,65
+LSA_64/train,Play Some,053_007_002,82
+LSA_64/train,Play Some,053_007_003,48
+LSA_64/train,Play Some,053_007_004,83
+LSA_64/train,Play Some,053_008_001,114
+LSA_64/train,Play Some,053_008_002,82
+LSA_64/train,Play Some,053_008_003,84
+LSA_64/train,Play Some,053_008_004,97
+LSA_64/train,Play Some,053_009_001,57
+LSA_64/train,Play Some,053_009_002,81
+LSA_64/train,Play Some,053_009_003,67
+LSA_64/train,Play Some,053_009_004,70
+LSA_64/train,Play Some,053_010_001,68
+LSA_64/train,Play Some,053_010_002,72
+LSA_64/train,Play Some,053_010_003,111
+LSA_64/train,Play Some,053_010_004,61
+LSA_64/train,Red,002_001_001,65
+LSA_64/train,Red,002_001_002,60
+LSA_64/train,Red,002_001_003,61
+LSA_64/train,Red,002_001_004,71
+LSA_64/train,Red,002_002_001,69
+LSA_64/train,Red,002_002_002,75
+LSA_64/train,Red,002_002_003,71
+LSA_64/train,Red,002_002_004,65
+LSA_64/train,Red,002_003_001,64
+LSA_64/train,Red,002_003_002,62
+LSA_64/train,Red,002_003_003,63
+LSA_64/train,Red,002_003_004,70
+LSA_64/train,Red,002_004_001,98
+LSA_64/train,Red,002_004_002,75
+LSA_64/train,Red,002_004_003,123
+LSA_64/train,Red,002_004_004,68
+LSA_64/train,Red,002_005_001,82
+LSA_64/train,Red,002_005_002,96
+LSA_64/train,Red,002_005_003,73
+LSA_64/train,Red,002_005_004,59
+LSA_64/train,Red,002_006_001,91
+LSA_64/train,Red,002_006_002,76
+LSA_64/train,Red,002_006_003,71
+LSA_64/train,Red,002_006_004,96
+LSA_64/train,Red,002_007_001,78
+LSA_64/train,Red,002_007_002,58
+LSA_64/train,Red,002_007_003,76
+LSA_64/train,Red,002_007_004,59
+LSA_64/train,Red,002_008_001,77
+LSA_64/train,Red,002_008_002,72
+LSA_64/train,Red,002_008_003,80
+LSA_64/train,Red,002_008_004,114
+LSA_64/train,Red,002_009_001,72
+LSA_64/train,Red,002_009_002,64
+LSA_64/train,Red,002_009_003,93
+LSA_64/train,Red,002_009_004,88
+LSA_64/train,Red,002_010_001,110
+LSA_64/train,Red,002_010_002,115
+LSA_64/train,Red,002_010_003,98
+LSA_64/train,Red,002_010_004,77
+LSA_64/train,Run,061_001_001,101
+LSA_64/train,Run,061_001_002,101
+LSA_64/train,Run,061_001_003,140
+LSA_64/train,Run,061_001_004,144
+LSA_64/train,Run,061_002_001,75
+LSA_64/train,Run,061_002_002,81
+LSA_64/train,Run,061_002_003,57
+LSA_64/train,Run,061_002_004,67
+LSA_64/train,Run,061_003_001,66
+LSA_64/train,Run,061_003_002,70
+LSA_64/train,Run,061_003_003,84
+LSA_64/train,Run,061_003_004,96
+LSA_64/train,Run,061_004_001,76
+LSA_64/train,Run,061_004_002,51
+LSA_64/train,Run,061_004_003,64
+LSA_64/train,Run,061_004_004,65
+LSA_64/train,Run,061_005_001,104
+LSA_64/train,Run,061_005_002,91
+LSA_64/train,Run,061_005_003,80
+LSA_64/train,Run,061_005_004,82
+LSA_64/train,Run,061_006_001,61
+LSA_64/train,Run,061_006_002,79
+LSA_64/train,Run,061_006_003,70
+LSA_64/train,Run,061_006_004,104
+LSA_64/train,Run,061_007_001,52
+LSA_64/train,Run,061_007_002,82
+LSA_64/train,Run,061_007_003,79
+LSA_64/train,Run,061_007_004,83
+LSA_64/train,Run,061_008_001,69
+LSA_64/train,Run,061_008_002,77
+LSA_64/train,Run,061_008_003,58
+LSA_64/train,Run,061_008_004,81
+LSA_64/train,Run,061_009_001,64
+LSA_64/train,Run,061_009_002,66
+LSA_64/train,Run,061_009_003,55
+LSA_64/train,Run,061_009_004,87
+LSA_64/train,Run,061_010_001,73
+LSA_64/train,Run,061_010_002,67
+LSA_64/train,Run,061_010_003,60
+LSA_64/train,Run,061_010_004,74
+LSA_64/train,Sweet Milk,020_001_001,55
+LSA_64/train,Sweet Milk,020_001_002,62
+LSA_64/train,Sweet Milk,020_001_003,37
+LSA_64/train,Sweet Milk,020_001_004,77
+LSA_64/train,Sweet Milk,020_002_001,57
+LSA_64/train,Sweet Milk,020_002_002,52
+LSA_64/train,Sweet Milk,020_002_003,50
+LSA_64/train,Sweet Milk,020_002_004,46
+LSA_64/train,Sweet Milk,020_003_001,66
+LSA_64/train,Sweet Milk,020_003_002,62
+LSA_64/train,Sweet Milk,020_003_003,69
+LSA_64/train,Sweet Milk,020_003_004,64
+LSA_64/train,Sweet Milk,020_004_001,60
+LSA_64/train,Sweet Milk,020_004_002,76
+LSA_64/train,Sweet Milk,020_004_003,59
+LSA_64/train,Sweet Milk,020_004_004,56
+LSA_64/train,Sweet Milk,020_005_001,69
+LSA_64/train,Sweet Milk,020_005_002,98
+LSA_64/train,Sweet Milk,020_005_003,68
+LSA_64/train,Sweet Milk,020_005_004,70
+LSA_64/train,Sweet Milk,020_006_001,47
+LSA_64/train,Sweet Milk,020_006_002,71
+LSA_64/train,Sweet Milk,020_006_003,47
+LSA_64/train,Sweet Milk,020_006_004,53
+LSA_64/train,Sweet Milk,020_007_001,60
+LSA_64/train,Sweet Milk,020_007_002,53
+LSA_64/train,Sweet Milk,020_007_003,44
+LSA_64/train,Sweet Milk,020_007_004,41
+LSA_64/train,Sweet Milk,020_008_001,46
+LSA_64/train,Sweet Milk,020_008_002,60
+LSA_64/train,Sweet Milk,020_008_003,68
+LSA_64/train,Sweet Milk,020_008_004,51
+LSA_64/train,Sweet Milk,020_009_001,45
+LSA_64/train,Sweet Milk,020_009_002,49
+LSA_64/train,Sweet Milk,020_009_003,45
+LSA_64/train,Sweet Milk,020_009_004,55
+LSA_64/train,Sweet Milk,020_010_001,73
+LSA_64/train,Sweet Milk,020_010_002,45
+LSA_64/train,Sweet Milk,020_010_003,50
+LSA_64/train,Sweet Milk,020_010_004,34
+LSA_64/train,Thanks,051_001_001,122
+LSA_64/train,Thanks,051_001_002,66
+LSA_64/train,Thanks,051_001_003,72
+LSA_64/train,Thanks,051_001_004,92
+LSA_64/train,Thanks,051_002_001,105
+LSA_64/train,Thanks,051_002_002,99
+LSA_64/train,Thanks,051_002_003,99
+LSA_64/train,Thanks,051_002_004,118
+LSA_64/train,Thanks,051_003_001,122
+LSA_64/train,Thanks,051_003_002,103
+LSA_64/train,Thanks,051_003_003,99
+LSA_64/train,Thanks,051_003_004,92
+LSA_64/train,Thanks,051_004_001,89
+LSA_64/train,Thanks,051_004_002,79
+LSA_64/train,Thanks,051_004_003,82
+LSA_64/train,Thanks,051_004_004,75
+LSA_64/train,Thanks,051_005_001,117
+LSA_64/train,Thanks,051_005_002,63
+LSA_64/train,Thanks,051_005_003,58
+LSA_64/train,Thanks,051_005_004,68
+LSA_64/train,Thanks,051_006_001,108
+LSA_64/train,Thanks,051_006_002,105
+LSA_64/train,Thanks,051_006_003,137
+LSA_64/train,Thanks,051_006_004,143
+LSA_64/train,Thanks,051_007_001,99
+LSA_64/train,Thanks,051_007_002,89
+LSA_64/train,Thanks,051_007_003,112
+LSA_64/train,Thanks,051_007_004,141
+LSA_64/train,Thanks,051_008_001,76
+LSA_64/train,Thanks,051_008_002,82
+LSA_64/train,Thanks,051_008_003,76
+LSA_64/train,Thanks,051_008_004,119
+LSA_64/train,Thanks,051_009_001,108
+LSA_64/train,Thanks,051_009_002,89
+LSA_64/train,Thanks,051_009_003,73
+LSA_64/train,Thanks,051_009_004,88
+LSA_64/train,Thanks,051_010_001,71
+LSA_64/train,Thanks,051_010_002,51
+LSA_64/train,Thanks,051_010_003,63
+LSA_64/train,Thanks,051_010_004,61
+LSA_64/train,The Weather,062_001_001,66
+LSA_64/train,The Weather,062_001_002,74
+LSA_64/train,The Weather,062_001_003,72
+LSA_64/train,The Weather,062_001_004,82
+LSA_64/train,The Weather,062_002_001,72
+LSA_64/train,The Weather,062_002_002,110
+LSA_64/train,The Weather,062_002_003,97
+LSA_64/train,The Weather,062_002_004,114
+LSA_64/train,The Weather,062_003_001,65
+LSA_64/train,The Weather,062_003_002,47
+LSA_64/train,The Weather,062_003_003,64
+LSA_64/train,The Weather,062_003_004,120
+LSA_64/train,The Weather,062_004_001,89
+LSA_64/train,The Weather,062_004_002,74
+LSA_64/train,The Weather,062_004_003,90
+LSA_64/train,The Weather,062_004_004,51
+LSA_64/train,The Weather,062_005_001,105
+LSA_64/train,The Weather,062_005_002,113
+LSA_64/train,The Weather,062_005_003,68
+LSA_64/train,The Weather,062_005_004,142
+LSA_64/train,The Weather,062_006_001,75
+LSA_64/train,The Weather,062_006_002,78
+LSA_64/train,The Weather,062_006_003,84
+LSA_64/train,The Weather,062_006_004,88
+LSA_64/train,The Weather,062_007_001,55
+LSA_64/train,The Weather,062_007_002,57
+LSA_64/train,The Weather,062_007_003,93
+LSA_64/train,The Weather,062_007_004,68
+LSA_64/train,The Weather,062_008_001,79
+LSA_64/train,The Weather,062_008_002,113
+LSA_64/train,The Weather,062_008_003,63
+LSA_64/train,The Weather,062_008_004,143
+LSA_64/train,The Weather,062_009_001,68
+LSA_64/train,The Weather,062_009_002,76
+LSA_64/train,The Weather,062_009_003,74
+LSA_64/train,The Weather,062_009_004,57
+LSA_64/train,The Weather,062_010_001,67
+LSA_64/train,The Weather,062_010_002,65
+LSA_64/train,The Weather,062_010_003,98
+LSA_64/train,The Weather,062_010_004,51
+LSA_64/train,Water,022_001_001,66
+LSA_64/train,Water,022_001_002,67
+LSA_64/train,Water,022_001_003,75
+LSA_64/train,Water,022_001_004,63
+LSA_64/train,Water,022_002_001,72
+LSA_64/train,Water,022_002_002,50
+LSA_64/train,Water,022_002_003,57
+LSA_64/train,Water,022_002_004,65
+LSA_64/train,Water,022_003_001,70
+LSA_64/train,Water,022_003_002,98
+LSA_64/train,Water,022_003_003,76
+LSA_64/train,Water,022_003_004,72
+LSA_64/train,Water,022_004_001,69
+LSA_64/train,Water,022_004_002,74
+LSA_64/train,Water,022_004_003,81
+LSA_64/train,Water,022_004_004,76
+LSA_64/train,Water,022_005_001,105
+LSA_64/train,Water,022_005_002,63
+LSA_64/train,Water,022_005_003,81
+LSA_64/train,Water,022_005_004,89
+LSA_64/train,Water,022_006_001,83
+LSA_64/train,Water,022_006_002,79
+LSA_64/train,Water,022_006_003,83
+LSA_64/train,Water,022_006_004,55
+LSA_64/train,Water,022_007_001,86
+LSA_64/train,Water,022_007_002,59
+LSA_64/train,Water,022_007_003,75
+LSA_64/train,Water,022_007_004,70
+LSA_64/train,Water,022_008_001,111
+LSA_64/train,Water,022_008_002,77
+LSA_64/train,Water,022_008_003,78
+LSA_64/train,Water,022_008_004,85
+LSA_64/train,Water,022_009_001,94
+LSA_64/train,Water,022_009_002,80
+LSA_64/train,Water,022_009_003,97
+LSA_64/train,Water,022_009_004,73
+LSA_64/train,Water,022_010_001,67
+LSA_64/train,Water,022_010_002,71
+LSA_64/train,Water,022_010_003,83
+LSA_64/train,Water,022_010_004,75
+LSA_64/train,What is,063_001_001,108
+LSA_64/train,What is,063_001_002,70
+LSA_64/train,What is,063_001_003,82
+LSA_64/train,What is,063_001_004,112
+LSA_64/train,What is,063_002_001,129
+LSA_64/train,What is,063_002_002,142
+LSA_64/train,What is,063_002_003,97
+LSA_64/train,What is,063_002_004,63
+LSA_64/train,What is,063_003_001,73
+LSA_64/train,What is,063_003_002,74
+LSA_64/train,What is,063_003_003,50
+LSA_64/train,What is,063_003_004,71
+LSA_64/train,What is,063_004_001,62
+LSA_64/train,What is,063_004_002,44
+LSA_64/train,What is,063_004_003,48
+LSA_64/train,What is,063_004_004,75
+LSA_64/train,What is,063_005_001,57
+LSA_64/train,What is,063_005_002,44
+LSA_64/train,What is,063_005_003,45
+LSA_64/train,What is,063_005_004,52
+LSA_64/train,What is,063_006_001,78
+LSA_64/train,What is,063_006_002,80
+LSA_64/train,What is,063_006_003,57
+LSA_64/train,What is,063_006_004,75
+LSA_64/train,What is,063_007_001,59
+LSA_64/train,What is,063_007_002,62
+LSA_64/train,What is,063_007_003,65
+LSA_64/train,What is,063_007_004,78
+LSA_64/train,What is,063_008_001,88
+LSA_64/train,What is,063_008_002,52
+LSA_64/train,What is,063_008_003,97
+LSA_64/train,What is,063_008_004,77
+LSA_64/train,What is,063_009_001,78
+LSA_64/train,What is,063_009_002,71
+LSA_64/train,What is,063_009_003,70
+LSA_64/train,What is,063_009_004,69
+LSA_64/train,What is,063_010_001,71
+LSA_64/train,What is,063_010_002,65
+LSA_64/train,What is,063_010_003,107
+LSA_64/train,What is,063_010_004,80
+LSA_64/train,When is,060_001_001,100
+LSA_64/train,When is,060_001_002,102
+LSA_64/train,When is,060_001_003,112
+LSA_64/train,When is,060_001_004,89
+LSA_64/train,When is,060_002_001,80
+LSA_64/train,When is,060_002_002,74
+LSA_64/train,When is,060_002_003,93
+LSA_64/train,When is,060_002_004,87
+LSA_64/train,When is,060_003_001,102
+LSA_64/train,When is,060_003_002,62
+LSA_64/train,When is,060_003_003,62
+LSA_64/train,When is,060_003_004,88
+LSA_64/train,When is,060_004_001,73
+LSA_64/train,When is,060_004_002,72
+LSA_64/train,When is,060_004_003,98
+LSA_64/train,When is,060_004_004,106
+LSA_64/train,When is,060_005_001,70
+LSA_64/train,When is,060_005_002,49
+LSA_64/train,When is,060_005_003,67
+LSA_64/train,When is,060_005_004,69
+LSA_64/train,When is,060_006_001,101
+LSA_64/train,When is,060_006_002,70
+LSA_64/train,When is,060_006_003,101
+LSA_64/train,When is,060_006_004,106
+LSA_64/train,When is,060_007_001,110
+LSA_64/train,When is,060_007_002,110
+LSA_64/train,When is,060_007_003,78
+LSA_64/train,When is,060_007_004,86
+LSA_64/train,When is,060_008_001,78
+LSA_64/train,When is,060_008_002,113
+LSA_64/train,When is,060_008_003,60
+LSA_64/train,When is,060_008_004,53
+LSA_64/train,When is,060_009_001,68
+LSA_64/train,When is,060_009_002,56
+LSA_64/train,When is,060_009_003,84
+LSA_64/train,When is,060_009_004,50
+LSA_64/train,When is,060_010_001,113
+LSA_64/train,When is,060_010_002,112
+LSA_64/train,When is,060_010_003,114
+LSA_64/train,When is,060_010_004,142
+LSA_64/train,Where is,028_001_001,45
+LSA_64/train,Where is,028_001_002,75
+LSA_64/train,Where is,028_001_003,66
+LSA_64/train,Where is,028_001_004,77
+LSA_64/train,Where is,028_002_001,140
+LSA_64/train,Where is,028_002_002,73
+LSA_64/train,Where is,028_002_003,73
+LSA_64/train,Where is,028_002_004,105
+LSA_64/train,Where is,028_003_001,92
+LSA_64/train,Where is,028_003_002,87
+LSA_64/train,Where is,028_003_003,96
+LSA_64/train,Where is,028_003_004,96
+LSA_64/train,Where is,028_004_001,79
+LSA_64/train,Where is,028_004_002,86
+LSA_64/train,Where is,028_004_003,86
+LSA_64/train,Where is,028_004_004,71
+LSA_64/train,Where is,028_005_001,78
+LSA_64/train,Where is,028_005_002,79
+LSA_64/train,Where is,028_005_003,75
+LSA_64/train,Where is,028_005_004,71
+LSA_64/train,Where is,028_006_001,125
+LSA_64/train,Where is,028_006_002,115
+LSA_64/train,Where is,028_006_003,96
+LSA_64/train,Where is,028_006_004,105
+LSA_64/train,Where is,028_007_001,111
+LSA_64/train,Where is,028_007_002,103
+LSA_64/train,Where is,028_007_003,144
+LSA_64/train,Where is,028_007_004,128
+LSA_64/train,Where is,028_008_001,80
+LSA_64/train,Where is,028_008_002,81
+LSA_64/train,Where is,028_008_003,105
+LSA_64/train,Where is,028_008_004,109
+LSA_64/train,Where is,028_009_001,139
+LSA_64/train,Where is,028_009_002,80
+LSA_64/train,Where is,028_009_003,95
+LSA_64/train,Where is,028_009_004,97
+LSA_64/train,Where is,028_010_001,113
+LSA_64/train,Where is,028_010_002,140
+LSA_64/train,Where is,028_010_003,129
+LSA_64/train,Where is,028_010_004,113
+LSA_64/train,Yellow,004_001_001,53
+LSA_64/train,Yellow,004_001_002,39
+LSA_64/train,Yellow,004_001_003,46
+LSA_64/train,Yellow,004_001_004,41
+LSA_64/train,Yellow,004_002_001,101
+LSA_64/train,Yellow,004_002_002,93
+LSA_64/train,Yellow,004_002_003,61
+LSA_64/train,Yellow,004_002_004,44
+LSA_64/train,Yellow,004_003_001,42
+LSA_64/train,Yellow,004_003_002,41
+LSA_64/train,Yellow,004_003_003,45
+LSA_64/train,Yellow,004_003_004,45
+LSA_64/train,Yellow,004_004_001,50
+LSA_64/train,Yellow,004_004_002,50
+LSA_64/train,Yellow,004_004_003,66
+LSA_64/train,Yellow,004_004_004,72
+LSA_64/train,Yellow,004_005_001,48
+LSA_64/train,Yellow,004_005_002,64
+LSA_64/train,Yellow,004_005_003,57
+LSA_64/train,Yellow,004_005_004,58
+LSA_64/train,Yellow,004_006_001,66
+LSA_64/train,Yellow,004_006_002,79
+LSA_64/train,Yellow,004_006_003,69
+LSA_64/train,Yellow,004_006_004,70
+LSA_64/train,Yellow,004_007_001,50
+LSA_64/train,Yellow,004_007_002,45
+LSA_64/train,Yellow,004_007_003,46
+LSA_64/train,Yellow,004_007_004,70
+LSA_64/train,Yellow,004_008_001,46
+LSA_64/train,Yellow,004_008_002,42
+LSA_64/train,Yellow,004_008_003,44
+LSA_64/train,Yellow,004_008_004,70
+LSA_64/train,Yellow,004_009_001,68
+LSA_64/train,Yellow,004_009_002,43
+LSA_64/train,Yellow,004_009_003,41
+LSA_64/train,Yellow,004_009_004,45
+LSA_64/train,Yellow,004_010_001,43
+LSA_64/train,Yellow,004_010_002,50
+LSA_64/train,Yellow,004_010_003,52
+LSA_64/train,Yellow,004_010_004,56
+LSA_64/train,Yogurt,049_001_001,139
+LSA_64/train,Yogurt,049_001_002,141
+LSA_64/train,Yogurt,049_001_003,174
+LSA_64/train,Yogurt,049_001_004,143
+LSA_64/train,Yogurt,049_002_001,82
+LSA_64/train,Yogurt,049_002_002,113
+LSA_64/train,Yogurt,049_002_003,94
+LSA_64/train,Yogurt,049_002_004,134
+LSA_64/train,Yogurt,049_003_001,85
+LSA_64/train,Yogurt,049_003_002,97
+LSA_64/train,Yogurt,049_003_003,108
+LSA_64/train,Yogurt,049_003_004,143
+LSA_64/train,Yogurt,049_004_001,105
+LSA_64/train,Yogurt,049_004_002,122
+LSA_64/train,Yogurt,049_004_003,80
+LSA_64/train,Yogurt,049_004_004,81
+LSA_64/train,Yogurt,049_005_001,108
+LSA_64/train,Yogurt,049_005_002,93
+LSA_64/train,Yogurt,049_005_003,161
+LSA_64/train,Yogurt,049_005_004,111
+LSA_64/train,Yogurt,049_006_001,141
+LSA_64/train,Yogurt,049_006_002,140
+LSA_64/train,Yogurt,049_006_003,117
+LSA_64/train,Yogurt,049_006_004,123
+LSA_64/train,Yogurt,049_007_001,91
+LSA_64/train,Yogurt,049_007_002,100
+LSA_64/train,Yogurt,049_007_003,113
+LSA_64/train,Yogurt,049_007_004,112
+LSA_64/train,Yogurt,049_008_001,135
+LSA_64/train,Yogurt,049_008_002,79
+LSA_64/train,Yogurt,049_008_003,113
+LSA_64/train,Yogurt,049_008_004,108
+LSA_64/train,Yogurt,049_009_001,68
+LSA_64/train,Yogurt,049_009_002,113
+LSA_64/train,Yogurt,049_009_003,135
+LSA_64/train,Yogurt,049_009_004,69
+LSA_64/train,Yogurt,049_010_001,142
+LSA_64/train,Yogurt,049_010_002,113
+LSA_64/train,Yogurt,049_010_003,144
+LSA_64/train,Yogurt,049_010_004,143
+LSA_64/train,Your,050_001_001,66
+LSA_64/train,Your,050_001_002,144
+LSA_64/train,Your,050_001_003,85
+LSA_64/train,Your,050_001_004,88
+LSA_64/train,Your,050_002_001,66
+LSA_64/train,Your,050_002_002,76
+LSA_64/train,Your,050_002_003,69
+LSA_64/train,Your,050_002_004,70
+LSA_64/train,Your,050_003_001,72
+LSA_64/train,Your,050_003_002,73
+LSA_64/train,Your,050_003_003,55
+LSA_64/train,Your,050_003_004,79
+LSA_64/train,Your,050_004_001,64
+LSA_64/train,Your,050_004_002,77
+LSA_64/train,Your,050_004_003,61
+LSA_64/train,Your,050_004_004,68
+LSA_64/train,Your,050_005_001,67
+LSA_64/train,Your,050_005_002,78
+LSA_64/train,Your,050_005_003,74
+LSA_64/train,Your,050_005_004,104
+LSA_64/train,Your,050_006_001,72
+LSA_64/train,Your,050_006_002,68
+LSA_64/train,Your,050_006_003,99
+LSA_64/train,Your,050_006_004,82
+LSA_64/train,Your,050_007_001,70
+LSA_64/train,Your,050_007_002,70
+LSA_64/train,Your,050_007_003,64
+LSA_64/train,Your,050_007_004,87
+LSA_64/train,Your,050_008_001,81
+LSA_64/train,Your,050_008_002,74
+LSA_64/train,Your,050_008_003,71
+LSA_64/train,Your,050_008_004,76
+LSA_64/train,Your,050_009_001,66
+LSA_64/train,Your,050_009_002,75
+LSA_64/train,Your,050_009_003,67
+LSA_64/train,Your,050_009_004,56
+LSA_64/train,Your,050_010_001,66
+LSA_64/train,Your,050_010_002,64
+LSA_64/train,Your,050_010_003,41
+LSA_64/train,Your,050_010_004,109
+LSA_64/test,Are you Hungry,033_001_005,56
+LSA_64/test,Are you Hungry,033_002_005,94
+LSA_64/test,Are you Hungry,033_003_005,68
+LSA_64/test,Are you Hungry,033_004_005,57
+LSA_64/test,Are you Hungry,033_005_005,82
+LSA_64/test,Are you Hungry,033_006_005,140
+LSA_64/test,Are you Hungry,033_007_005,116
+LSA_64/test,Are you Hungry,033_008_005,71
+LSA_64/test,Are you Hungry,033_009_005,69
+LSA_64/test,Are you Hungry,033_010_005,113
+LSA_64/test,Argentina,024_001_005,67
+LSA_64/test,Argentina,024_002_005,59
+LSA_64/test,Argentina,024_003_005,64
+LSA_64/test,Argentina,024_004_005,50
+LSA_64/test,Argentina,024_005_005,62
+LSA_64/test,Argentina,024_006_005,51
+LSA_64/test,Argentina,024_007_005,92
+LSA_64/test,Argentina,024_008_005,58
+LSA_64/test,Argentina,024_009_005,66
+LSA_64/test,Argentina,024_010_005,85
+LSA_64/test,Birthday,030_001_005,78
+LSA_64/test,Birthday,030_002_005,111
+LSA_64/test,Birthday,030_003_005,86
+LSA_64/test,Birthday,030_004_005,69
+LSA_64/test,Birthday,030_005_005,132
+LSA_64/test,Birthday,030_006_005,190
+LSA_64/test,Birthday,030_007_005,114
+LSA_64/test,Birthday,030_008_005,112
+LSA_64/test,Birthday,030_009_005,92
+LSA_64/test,Birthday,030_010_005,144
+LSA_64/test,Call me,017_001_005,68
+LSA_64/test,Call me,017_002_005,54
+LSA_64/test,Call me,017_003_005,74
+LSA_64/test,Call me,017_004_005,67
+LSA_64/test,Call me,017_005_005,46
+LSA_64/test,Call me,017_006_005,55
+LSA_64/test,Call me,017_007_005,58
+LSA_64/test,Call me,017_008_005,62
+LSA_64/test,Call me,017_009_005,42
+LSA_64/test,Call me,017_010_005,52
+LSA_64/test,Can you,064_001_005,73
+LSA_64/test,Can you,064_002_005,66
+LSA_64/test,Can you,064_003_005,62
+LSA_64/test,Can you,064_004_005,85
+LSA_64/test,Can you,064_005_005,74
+LSA_64/test,Can you,064_006_005,70
+LSA_64/test,Can you,064_007_005,37
+LSA_64/test,Can you,064_008_005,49
+LSA_64/test,Can you,064_009_005,63
+LSA_64/test,Can you,064_010_005,137
+LSA_64/test,Colors,007_001_005,53
+LSA_64/test,Colors,007_002_005,71
+LSA_64/test,Colors,007_003_005,70
+LSA_64/test,Colors,007_004_005,68
+LSA_64/test,Colors,007_005_005,65
+LSA_64/test,Colors,007_006_005,74
+LSA_64/test,Colors,007_007_005,47
+LSA_64/test,Colors,007_008_005,55
+LSA_64/test,Colors,007_009_005,31
+LSA_64/test,Colors,007_010_005,44
+LSA_64/test,Dance,057_001_005,65
+LSA_64/test,Dance,057_002_005,111
+LSA_64/test,Dance,057_003_005,74
+LSA_64/test,Dance,057_004_005,82
+LSA_64/test,Dance,057_005_005,74
+LSA_64/test,Dance,057_006_005,76
+LSA_64/test,Dance,057_007_005,85
+LSA_64/test,Dance,057_008_005,99
+LSA_64/test,Dance,057_009_005,83
+LSA_64/test,Dance,057_010_005,82
+LSA_64/test,Help,056_001_005,69
+LSA_64/test,Help,056_002_005,108
+LSA_64/test,Help,056_003_005,71
+LSA_64/test,Help,056_004_005,88
+LSA_64/test,Help,056_005_005,72
+LSA_64/test,Help,056_006_005,103
+LSA_64/test,Help,056_007_005,83
+LSA_64/test,Help,056_008_005,45
+LSA_64/test,Help,056_009_005,77
+LSA_64/test,Help,056_010_005,104
+LSA_64/test,Music,036_001_005,95
+LSA_64/test,Music,036_002_005,97
+LSA_64/test,Music,036_003_005,107
+LSA_64/test,Music,036_004_005,61
+LSA_64/test,Music,036_005_005,57
+LSA_64/test,Music,036_006_005,104
+LSA_64/test,Music,036_007_005,88
+LSA_64/test,Music,036_008_005,74
+LSA_64/test,Music,036_009_005,96
+LSA_64/test,Music,036_010_005,70
+LSA_64/test,Name,039_001_005,74
+LSA_64/test,Name,039_002_005,92
+LSA_64/test,Name,039_003_005,89
+LSA_64/test,Name,039_004_005,37
+LSA_64/test,Name,039_005_005,76
+LSA_64/test,Name,039_006_005,75
+LSA_64/test,Name,039_007_005,82
+LSA_64/test,Name,039_008_005,111
+LSA_64/test,Name,039_009_005,54
+LSA_64/test,Name,039_010_005,114
+LSA_64/test,Opaque,001_001_005,45
+LSA_64/test,Opaque,001_002_005,59
+LSA_64/test,Opaque,001_003_005,75
+LSA_64/test,Opaque,001_004_005,51
+LSA_64/test,Opaque,001_005_005,48
+LSA_64/test,Opaque,001_006_005,99
+LSA_64/test,Opaque,001_007_005,49
+LSA_64/test,Opaque,001_008_005,76
+LSA_64/test,Opaque,001_009_005,53
+LSA_64/test,Opaque,001_010_005,71
+LSA_64/test,Play Some,053_001_005,62
+LSA_64/test,Play Some,053_002_005,78
+LSA_64/test,Play Some,053_003_005,66
+LSA_64/test,Play Some,053_004_005,34
+LSA_64/test,Play Some,053_005_005,68
+LSA_64/test,Play Some,053_006_005,112
+LSA_64/test,Play Some,053_007_005,88
+LSA_64/test,Play Some,053_008_005,80
+LSA_64/test,Play Some,053_009_005,57
+LSA_64/test,Play Some,053_010_005,86
+LSA_64/test,Red,002_001_005,63
+LSA_64/test,Red,002_002_005,71
+LSA_64/test,Red,002_003_005,66
+LSA_64/test,Red,002_004_005,89
+LSA_64/test,Red,002_005_005,66
+LSA_64/test,Red,002_006_005,106
+LSA_64/test,Red,002_007_005,74
+LSA_64/test,Red,002_008_005,76
+LSA_64/test,Red,002_009_005,91
+LSA_64/test,Red,002_010_005,54
+LSA_64/test,Run,061_001_005,143
+LSA_64/test,Run,061_002_005,63
+LSA_64/test,Run,061_003_005,90
+LSA_64/test,Run,061_004_005,85
+LSA_64/test,Run,061_005_005,55
+LSA_64/test,Run,061_006_005,171
+LSA_64/test,Run,061_007_005,84
+LSA_64/test,Run,061_008_005,74
+LSA_64/test,Run,061_009_005,61
+LSA_64/test,Run,061_010_005,78
+LSA_64/test,Sweet Milk,020_001_005,79
+LSA_64/test,Sweet Milk,020_002_005,51
+LSA_64/test,Sweet Milk,020_003_005,75
+LSA_64/test,Sweet Milk,020_004_005,94
+LSA_64/test,Sweet Milk,020_005_005,44
+LSA_64/test,Sweet Milk,020_006_005,50
+LSA_64/test,Sweet Milk,020_007_005,34
+LSA_64/test,Sweet Milk,020_008_005,53
+LSA_64/test,Sweet Milk,020_009_005,62
+LSA_64/test,Sweet Milk,020_010_005,43
+LSA_64/test,Thanks,051_001_005,107
+LSA_64/test,Thanks,051_002_005,80
+LSA_64/test,Thanks,051_003_005,101
+LSA_64/test,Thanks,051_004_005,85
+LSA_64/test,Thanks,051_005_005,87
+LSA_64/test,Thanks,051_006_005,124
+LSA_64/test,Thanks,051_007_005,94
+LSA_64/test,Thanks,051_008_005,106
+LSA_64/test,Thanks,051_009_005,64
+LSA_64/test,Thanks,051_010_005,85
+LSA_64/test,The Weather,062_001_005,75
+LSA_64/test,The Weather,062_002_005,107
+LSA_64/test,The Weather,062_003_005,51
+LSA_64/test,The Weather,062_004_005,70
+LSA_64/test,The Weather,062_005_005,112
+LSA_64/test,The Weather,062_006_005,94
+LSA_64/test,The Weather,062_007_005,65
+LSA_64/test,The Weather,062_008_005,77
+LSA_64/test,The Weather,062_009_005,72
+LSA_64/test,The Weather,062_010_005,53
+LSA_64/test,Water,022_001_005,92
+LSA_64/test,Water,022_002_005,78
+LSA_64/test,Water,022_003_005,81
+LSA_64/test,Water,022_004_005,88
+LSA_64/test,Water,022_005_005,80
+LSA_64/test,Water,022_006_005,88
+LSA_64/test,Water,022_007_005,74
+LSA_64/test,Water,022_008_005,79
+LSA_64/test,Water,022_009_005,82
+LSA_64/test,Water,022_010_005,45
+LSA_64/test,What is,063_001_005,72
+LSA_64/test,What is,063_002_005,113
+LSA_64/test,What is,063_003_005,62
+LSA_64/test,What is,063_004_005,53
+LSA_64/test,What is,063_005_005,47
+LSA_64/test,What is,063_006_005,63
+LSA_64/test,What is,063_007_005,82
+LSA_64/test,What is,063_008_005,98
+LSA_64/test,What is,063_009_005,112
+LSA_64/test,What is,063_010_005,107
+LSA_64/test,When is,060_001_005,107
+LSA_64/test,When is,060_002_005,113
+LSA_64/test,When is,060_003_005,98
+LSA_64/test,When is,060_004_005,92
+LSA_64/test,When is,060_005_005,75
+LSA_64/test,When is,060_006_005,111
+LSA_64/test,When is,060_007_005,93
+LSA_64/test,When is,060_008_005,82
+LSA_64/test,When is,060_009_005,58
+LSA_64/test,When is,060_010_005,78
+LSA_64/test,Where is,028_001_005,112
+LSA_64/test,Where is,028_002_005,87
+LSA_64/test,Where is,028_003_005,68
+LSA_64/test,Where is,028_004_005,79
+LSA_64/test,Where is,028_005_005,56
+LSA_64/test,Where is,028_006_005,102
+LSA_64/test,Where is,028_007_005,134
+LSA_64/test,Where is,028_008_005,80
+LSA_64/test,Where is,028_009_005,85
+LSA_64/test,Where is,028_010_005,143
+LSA_64/test,Yellow,004_001_005,56
+LSA_64/test,Yellow,004_002_005,45
+LSA_64/test,Yellow,004_003_005,64
+LSA_64/test,Yellow,004_004_005,62
+LSA_64/test,Yellow,004_005_005,58
+LSA_64/test,Yellow,004_006_005,61
+LSA_64/test,Yellow,004_007_005,42
+LSA_64/test,Yellow,004_008_005,49
+LSA_64/test,Yellow,004_009_005,41
+LSA_64/test,Yellow,004_010_005,57
+LSA_64/test,Yogurt,049_001_005,172
+LSA_64/test,Yogurt,049_002_005,120
+LSA_64/test,Yogurt,049_003_005,105
+LSA_64/test,Yogurt,049_004_005,102
+LSA_64/test,Yogurt,049_005_005,112
+LSA_64/test,Yogurt,049_006_005,140
+LSA_64/test,Yogurt,049_007_005,91
+LSA_64/test,Yogurt,049_008_005,87
+LSA_64/test,Yogurt,049_009_005,69
+LSA_64/test,Yogurt,049_010_005,140
+LSA_64/test,Your,050_001_005,117
+LSA_64/test,Your,050_002_005,94
+LSA_64/test,Your,050_003_005,62
+LSA_64/test,Your,050_004_005,52
+LSA_64/test,Your,050_005_005,102
+LSA_64/test,Your,050_006_005,109
+LSA_64/test,Your,050_007_005,80
+LSA_64/test,Your,050_008_005,79
+LSA_64/test,Your,050_009_005,66
+LSA_64/test,Your,050_010_005,90
