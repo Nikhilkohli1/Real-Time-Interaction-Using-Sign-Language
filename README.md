@@ -1,6 +1,6 @@
 # Real-Time-Interaction-Using-Sign-Language
 
-**TEAM 9 - **
+**TEAM 9 
 
 
 Youtube Demo Link for Continous Sentence Recognition and interaction with Google Assistant - 
@@ -25,7 +25,7 @@ http://ec2-3-81-225-2.compute-1.amazonaws.com:8000/test/
 
 **Steps to Reproduce the code -**
 
-1. If you only want to run predictions using our Trained weights on LSA64 dataset with a 96% test accuracy -
+**1. If you only want to run predictions using our Trained weights on LSA64 dataset with a 96% test accuracy - **
 
 We choose 24 words specified in the Words_Class.csv file out of the 64 for our training set. This model was trained using a CNN - LSTM network
 which divides each video into individual frames and then create a sequence of frames as a numpy file to feed into the LSTM network. 
@@ -41,7 +41,7 @@ c)Activate a Google Asisstant.
 d)Now run the Video_Sign_Language_Prediction_Pipeline_Final.ipynb notebook 
 
 
-2. If you want to build our model and train it on LSA64 or any other dataset from scratch - 
+**2. If you want to build our model and train it on LSA64 or any other dataset from scratch - **
 
 These Steps will take time to run, on a cloud instance it might take upto 8-10 hours to prepare the entire dataset, extract frames,
 form sequence files of each video and then predict the words using LSTM. 
