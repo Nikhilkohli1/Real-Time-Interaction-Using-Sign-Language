@@ -3,13 +3,13 @@
 **TEAM 9 
 
 
-Youtube Demo Link for Continous Sentence Recognition and interaction with Google Assistant - 
+Youtube Demo Link for Continous Sentence Recognition and interaction with Google Assistant using LSA64 Video dataset - 
 https://youtu.be/y_XD36URZlY
 
 LSA64 Dataset Link -
 http://facundoq.github.io/unlp/lsa64/
 
-Custom Dataset build by us for Alphabet & Word Recognition -
+Custom Dataset built by us for Alphabet & Word Recognition -
 https://github.com/Nikhilkohli1/Dataset_Colored
 
 CLAAT Document for Project Proposal - 
@@ -21,6 +21,8 @@ https://codelabs-preview.appspot.com/?file_id=16KYWvbN_Fy_lIzGe7PyRzQ5WrtYWNPJCg
 AWS EC2 Instance - 
 http://ec2-3-81-225-2.compute-1.amazonaws.com:8000/test/
 
+Presentation for the Final Project - 
+https://prezi.com/view/0ZGC4WEbfFrBOHKKBURE/
 
 
 **Steps to Reproduce the code -**
@@ -38,7 +40,7 @@ b)Place the csv files 'Words_Class.csv' and 'data_file.csv' in the working direc
 
 c)Activate a Google Asisstant.
 
-d)Now run the Video_Sign_Language_Prediction_Pipeline_Final.ipynb notebook 
+d)Now run the Video_Sign_Language_Prediction_Pipeline_Final.ipynb notebook and have a wonderful experience
 
 Trained Weights(Trained on GPU) can be found at this link - https://drive.google.com/open?id=1zfFFcZSgW4l0ZnQu8ng7Cz8Ju0mmrsWm
 
